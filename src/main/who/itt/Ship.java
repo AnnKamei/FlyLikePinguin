@@ -1,4 +1,7 @@
-package main.who;
+package main.who.itt;
+
+import main.who.moves.Sinking;
+import main.who.moves.Swimming;
 
 public class Ship implements Sinking, Swimming {
     @Override
